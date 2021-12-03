@@ -1,0 +1,8 @@
+[INFO ] 2021-11-30 02:39:36,037 [main] Log4j_Demo - mainSG
+[ERROR] 2021-11-30 02:39:36,057 [main] Log4j_Demo - mainSG
+[WARN ] 2021-11-30 02:39:36,058 [main] Log4j_Demo - mainSG
+[FATAL] 2021-11-30 02:39:36,059 [main] Log4j_Demo - mainSG
+[INFO ] 2021-11-30 02:41:07,113 [main] Log4j_Demo - mainSG
+[ERROR] 2021-11-30 02:41:07,136 [main] Log4j_Demo - mainSG
+[WARN ] 2021-11-30 02:41:07,136 [main] Log4j_Demo - mainSG
+[FATAL] 2021-11-30 02:41:07,137 [main] Log4j_Demo - mainSG
